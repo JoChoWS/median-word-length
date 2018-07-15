@@ -7,3 +7,5 @@ Finding the median word length of a Rainforest QA Job Description
 * Title, apply here button, header, footer and location info ("San Francisco / United States ...") were not included in the word count.
 
 A histogram of the word lengths, and the identity of the two words at the center of the description are also included.
+
+Repository includes python source code and jupyter notebook executing that code.
